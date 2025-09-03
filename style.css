@@ -1,0 +1,21 @@
+.container{
+    position: absolute;
+    left: 45%;
+    top: 20%;
+}
+
+.text{
+    position: absolute;
+    text-align: center;
+    
+}
+
+body{
+    background-color: gray;
+}
+
+.linkedin{
+    position: absolute;
+    top: 520px;
+    left: 30%;
+}
